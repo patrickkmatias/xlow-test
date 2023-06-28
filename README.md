@@ -1,5 +1,5 @@
 # xlow-test
 
 ### other tests
-- [Forfait Bank](https://forfaitbank.vercel.app)
-- [Dourados Store](https://dourados-store.vercel.app)
+- [Forfait Bank](https://forfaitbank.vercel.app) [(src)](https://github.com/pmattheew/forfaitbank)
+- [Dourados Store](https://dourados-store.vercel.app) [(src)](https://github.com/pmattheew/dourados-store)
