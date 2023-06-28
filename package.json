@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "lit": "^2.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "vite": "^4.3.9"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
